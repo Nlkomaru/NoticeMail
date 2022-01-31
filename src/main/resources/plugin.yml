@@ -1,0 +1,4 @@
+name: NoticeMail
+version: '${version}'
+main: com.noticemc.noticemail.NoticeMail
+api-version: 1.18
